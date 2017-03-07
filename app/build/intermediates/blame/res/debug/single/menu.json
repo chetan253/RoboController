@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/tzmembers.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/tzmembers.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/tz.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/tz.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/help.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/help.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/info.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/info.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/device_list.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/device_list.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/controller.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/controller.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/sec.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/sec.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/menu/techno.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/menu/techno.xml"
+    }
+]

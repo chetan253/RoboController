@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/drawable-hdpi/technofiction.png",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/drawable-hdpi/technofiction.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/drawable-hdpi/tzback.png",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/drawable-hdpi/tzback.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/drawable-hdpi/ltcoe.png",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/drawable-hdpi/ltcoe.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/drawable-hdpi/tzmain.png",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/drawable-hdpi/tzmain.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    }
+]

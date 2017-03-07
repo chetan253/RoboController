@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/layout/activity_tzmembers.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/layout/activity_tzmembers.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/layout/activity_help.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/layout/activity_info.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/layout/activity_info.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/layout/activity_tz.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/layout/activity_tz.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/RoboController/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/RoboController/app/src/main/res/layout/activity_main.xml"
+    }
+]
